@@ -15,8 +15,9 @@ namespace Shapes
             shape.MyProperty = 12;
 
             TwoDClass twoDClass = new TwoDClass();
-            
+
         }
 
-        
+
+    }
 }
