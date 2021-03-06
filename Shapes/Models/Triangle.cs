@@ -9,6 +9,7 @@ namespace Shapes.Models
     class Triangle : TwoDClass
     {
         public int MyProperty2 { get; set; }
+        
         Triangle triangle = new Triangle();
     }
 }
