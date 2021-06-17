@@ -1,6 +1,6 @@
 # AthensWeather
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.8.
+https://stackblitz.com/github/GiorgosGi/AthensWeather
 
 ## Development server
 
